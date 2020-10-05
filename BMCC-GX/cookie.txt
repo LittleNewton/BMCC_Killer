@@ -1,0 +1,14 @@
+POST /eportal/InterFace.do?method=login HTTP/1.1
+Host: 10.224.20.254
+Connection: keep-alive
+Content-Length: 410
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.63
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+Origin: http://10.224.20.254
+Referer: http://10.224.20.254/eportal/index.jsp?wlanuserip=799f08c52646a09d1b7348e0e5cfc5cf&wlanacname=f78c0cc52bde1300&ssid=6a57afd9d16c2e96&nasip=2e174b8f5138bb0b3974ca9d38c44f52&mac=df3d69f0f6543624ae4582db8a2ddee0&t=wireless-v2&url=029c96853d7a4feb41db98611df414ff929355a1f73fc1e5
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6,zh-TW;q=0.5
+Cookie: EPORTAL_COOKIE_DOMAIN=false; EPORTAL_COOKIE_PASSWORD=888888; EPORTAL_COOKIE_SAVEPASSWORD=true; EPORTAL_COOKIE_SERVER=CMCC; EPORTAL_COOKIE_SERVER_NAME=%E8%BF%90%E8%90%A5%E5%95%86; EPORTAL_COOKIE_USERNAME=17813191071; EPORTAL_COOKIE_OPERATORPWD=; EPORTAL_AUTO_LAND=; EPORTAL_USER_GROUP=2020; JSESSIONID=00386A97966A38AE340520675B693ABF
+
+{"userIndex":"32653137346238663531333862623062333937346361396433386334346635325f31302e32302e31322e3133305f3137383133313931303731","result":"success","message":"","forwordurl":null,"keepaliveInterval":0,"validCodeUrl":""}

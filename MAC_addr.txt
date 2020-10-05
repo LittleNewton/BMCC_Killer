@@ -1,5 +1,0 @@
-iPad Pro
-http://10.224.20.254/eportal/index.jsp?wlanuserip=d645abbcdfd9abf6aaa271331e92a8d2&wlanacname=f78c0cc52bde1300&ssid=6a57afd9d16c2e96&nasip=2e174b8f5138bb0b3974ca9d38c44f52&mac=ac52237536439fe317fe0951725dc4c9&t=wireless-v2&url=029c96853d7a4feb41db98611df414ff929355a1f73fc1e5
-
-MacBook Pro
-http://10.224.20.254/eportal/index.jsp?wlanuserip=799f08c52646a09d1b7348e0e5cfc5cf&wlanacname=f78c0cc52bde1300&ssid=6a57afd9d16c2e96&nasip=2e174b8f5138bb0b3974ca9d38c44f52&mac=df3d69f0f6543624ae4582db8a2ddee0&t=wireless-v2&url=029c96853d7a4feb41db98611df414ff929355a1f73fc1e5
